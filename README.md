@@ -1,5 +1,5 @@
 # LearnSomeBasicCpp
-##I will be making coding the following 72 programs:
+#I will be making coding the following 72 programs:
 
 
 1. C++ Program to print "Hello, World!"
