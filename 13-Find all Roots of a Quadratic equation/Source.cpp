@@ -35,6 +35,7 @@ int main(void) {
 
 	printf_s("\nDiscriminant: %f", D);
 
+	//(-b(+-)sqrt(b^2-4*a*c))/(2*a) the calculations
 
 	//For the quadratic equation ax2 + bx + c = 0, the expression b2 – 4ac is called the discriminant.
 	//The value of the discriminant shows how many roots f(x) has:
