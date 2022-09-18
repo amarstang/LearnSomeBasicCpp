@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18-Find Factorial of a Numb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19-Generate Multiplication Table", "19-Generate Multiplication Table\19-Generate Multiplication Table.vcxproj", "{87DB5E1A-A214-4A24-BFF2-C8D3F8EA9263}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20-Display Fibonacci Sequence", "20-Display Fibonacci Sequence\20-Display Fibonacci Sequence.vcxproj", "{7A31FAF8-1582-44D6-A2D4-08B4317FC183}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{87DB5E1A-A214-4A24-BFF2-C8D3F8EA9263}.Release|x64.Build.0 = Release|x64
 		{87DB5E1A-A214-4A24-BFF2-C8D3F8EA9263}.Release|x86.ActiveCfg = Release|Win32
 		{87DB5E1A-A214-4A24-BFF2-C8D3F8EA9263}.Release|x86.Build.0 = Release|Win32
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Debug|x64.ActiveCfg = Debug|x64
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Debug|x64.Build.0 = Debug|x64
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Debug|x86.Build.0 = Debug|Win32
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Release|x64.ActiveCfg = Release|x64
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Release|x64.Build.0 = Release|x64
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Release|x86.ActiveCfg = Release|Win32
+		{7A31FAF8-1582-44D6-A2D4-08B4317FC183}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
