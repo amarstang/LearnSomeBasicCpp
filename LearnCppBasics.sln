@@ -25,6 +25,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-Check Whether a Number i
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11-Check Whether a Character is Vowel or Consonant", "11-Check Whether a Character is Vowel or Consonant\11-Check Whether a Character is Vowel or Consonant.vcxproj", "{9A65A04F-DBEC-4B77-B6C6-999D5AEF6978}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-Find the Largest Number Among Three Numbers", "12-Find the Largest Number Among Three Numbers\12-Find the Largest Number Among Three Numbers.vcxproj", "{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13-Find all Roots of a Quadratic equation", "13-Find all Roots of a Quadratic equation\13-Find all Roots of a Quadratic equation.vcxproj", "{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +125,22 @@ Global
 		{9A65A04F-DBEC-4B77-B6C6-999D5AEF6978}.Release|x64.Build.0 = Release|x64
 		{9A65A04F-DBEC-4B77-B6C6-999D5AEF6978}.Release|x86.ActiveCfg = Release|Win32
 		{9A65A04F-DBEC-4B77-B6C6-999D5AEF6978}.Release|x86.Build.0 = Release|Win32
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Debug|x64.ActiveCfg = Debug|x64
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Debug|x64.Build.0 = Debug|x64
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Debug|x86.Build.0 = Debug|Win32
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Release|x64.ActiveCfg = Release|x64
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Release|x64.Build.0 = Release|x64
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Release|x86.ActiveCfg = Release|Win32
+		{D4DFDEC8-846F-4CF5-9D9E-18E63060CA5B}.Release|x86.Build.0 = Release|Win32
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Debug|x64.ActiveCfg = Debug|x64
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Debug|x64.Build.0 = Debug|x64
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Debug|x86.Build.0 = Debug|Win32
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Release|x64.ActiveCfg = Release|x64
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Release|x64.Build.0 = Release|x64
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Release|x86.ActiveCfg = Release|Win32
+		{A7566E9D-FBB4-4F94-81A0-87BBC56FDE94}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
